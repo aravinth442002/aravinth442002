@@ -29,8 +29,8 @@ I am a passionate **Full Stack Developer** with a deep expertise in the entire s
 <br/>
 
 ## 📊 GitHub Stats
-
-<p align="center">
+<h1>Nan than da LEO!!</h1>
+<!-- <p align="center">
   <a href="https://github.com/aravinth442002">
     <img src="https://github-readme-stats.vercel.app/api?username=aravinth442002&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aravinth's GitHub stats" height="180"/>
   </a>
@@ -41,7 +41,7 @@ I am a passionate **Full Stack Developer** with a deep expertise in the entire s
   <a href="https://github.com/aravinth442002">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth442002&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
   </a>
-</p>
+</p> -->
 
 <br/>
 
