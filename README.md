@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aravinth Saminathan</h1>
 <h3 align="center">
-Senior Full Stack Developer | Software Architect | Backend Developer | Frontend Developer | Full Stack Architect | DevOps Engineer | DevSecOps Engineer | Cloud Solutions Architect | Cloud Engineer | Cloud Security Engineer | Database Administrator (DBA) | Data Engineer | Big Data Engineer | Data Scientist | Data Analyst | Business Intelligence (BI) Developer | BI Analyst | Mobile App Developer | iOS Developer | Android Developer | Mobile Game Developer | Frontend Developer | Backend Developer | API Developer | Microservices Developer | Systems Engineer | Systems Administrator | IT Support Specialist | IT Consultant | IT Operations Manager | Security Engineer | Cybersecurity Analyst | Ethical Hacker | Penetration Tester | QA Engineer | Test Automation Engineer | Software Development Engineer in Test (SDET) | Release Manager | Build Engineer | Site Reliability Engineer (SRE) | Platform Engineer | Infrastructure Engineer | Network Engineer | Embedded Systems Developer | Firmware Engineer | Robotics Engineer | IoT Developer | Blockchain Developer | AI/ML Engineer | Deep Learning Engineer | NLP Engineer | Computer Vision Engineer | Chatbot Developer | Conversational AI Engineer | Simulation Engineer | HPC Engineer | GPU Computing Engineer | Quantum Computing Researcher | Edge Computing Engineer | AR/VR Developer | VR/AR Game Developer | UX/UI Designer | Graphics Programmer | Animation Engineer | Game Developer | Technical Lead | Technical Project Manager | Scrum Master | Agile Coach | Product Engineer | Software Product Manager | Solution Architect | Platform Strategist | IT Strategist | Technology Advisor | Digital Transformation Specialist | Technical Writer | IT Auditor | Compliance Engineer | Open Source Contributor | Tech Evangelist | IT Trainer | Software Trainer | Open Source Enthusiast | Emerging Tech Specialist | Innovation Engineer | Cloud Native Developer | Serverless Developer | Full Stack Innovator | Futuristic Systems Designer | Computational Scientist | Bioinformatics Engineer | Computational Linguist | Simulation Scientist | Autonomous Systems Engineer | Intelligent Systems Developer | Neural Network Architect | AI Ethicist | Quantum Algorithm Developer
+Senior Full Stack Developer | Software Architect | Backend Developer | Frontend Developer | Full Stack Architect | DevOps Engineer | DevSecOps Engineer | Cloud Solutions Architect | Cloud Engineer | Cloud Security Engineer | Database Administrator (DBA) | Data Engineer | Big Data Engineer | Data Scientist | Data Analyst | Business Intelligence (BI) Developer | BI Analyst | Mobile App Developer | iOS Developer | Android Developer | Mobile Game Developer | Frontend Developer | Backend Developer | API Developer | Microservices Developer | Systems Engineer | Systems Administrator | IT Support Specialist | IT Consultant | IT Operations Manager | Security Engineer | Cybersecurity Analyst | Ethical Hacker | Penetration Tester | QA Engineer | Test Automation Engineer | Software Development Engineer in Test (SDET) | Release Manager | Build Engineer | Site Reliability Engineer (SRE) | Platform Engineer | Infrastructure Engineer | Network Engineer
 </h3>
 
 
 <p align="center">
-  <img src="header.png" alt="Header Banner" width="100%" style="border-radius: 10px;">
+  <img src="banner.jpg" alt="Header Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 <p align="center"> 
@@ -174,3 +174,16 @@ I am a passionate **Full Stack Developer** with a deep expertise in the entire s
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
+
+<br />
+
+## 🚀 Extracurricular Activities
+
+### Primary
+- 🔭 **Tissu Hunting** – Exploring unique and interesting patterns in fabrics.  
+
+### Secondary
+- 💬 **Lemon in the Spoon** – Fun challenges and skill games that test precision. 
+- 🎵 **Musical Chair Champion** – Winning (or at least surviving) every round.
+
+<br/>
